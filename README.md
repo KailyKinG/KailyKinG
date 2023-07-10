@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi 👋, Me Llamo Jorge Bravo
+### Soy un apacionado desarrollador fullstack del Chile
 
 <!--
 **KailyKinG/KailyKinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
