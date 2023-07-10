@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About Me:
+> Lista de tareas
+- [x] tarea uno
+- [ ] tarea 2
+- [ ] tarea 3
+- [x] deploy terminado :melon:
+
 ### Connect width Me:
 <div>
     <a href="https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LINKEDIN" alt="LINKEDIN"     width="60" height="60" /></a>
