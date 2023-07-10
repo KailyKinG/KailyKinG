@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with Me:
-[Linkedin]: https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg "Logo Linkedin"
-[![Linkedin][Linkedin]](https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175/)
+<div>
+  <a href="https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LINKEDIN" alt="LINKEDIN" width="50" height="50" /></a>
+</div>
 
 <div align="left">
   <h2>Lenguages and Tools</h2>
