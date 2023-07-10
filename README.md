@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Connect With Me:
+
 <div align="left">
   <h2>Lenguages and Tools</h2>
   <div>
@@ -33,12 +35,12 @@ Here are some ideas to get you started:
   </div>
 </div>
 
----
-## Connect With Me
----
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=KailyKinG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+## Support
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KailyKinG&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KailyKinG&show_icons=true&theme=merko)
