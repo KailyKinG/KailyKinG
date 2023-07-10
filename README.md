@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Connect with Me:
-<div>
-  
-</div>
+[Linkedin]: https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg "Logo Linkedin"
+[![Linkedin][Linkedin]](https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175/)
 
 <div align="left">
   <h2>Lenguages and Tools</h2>
