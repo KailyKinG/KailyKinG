@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect with Me:
-<div>
-  <a href="https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LINKEDIN" alt="LINKEDIN" width="100" height="100" /></a>
+<div align="left">
+  <h2>Connect width Me:</h2>
+  <div>
+    <a href="https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LINKEDIN" alt="LINKEDIN"     width="100" height="100" /></a>
+  </div>
 </div>
+
 
 <div align="left">
   <h2>Lenguages and Tools</h2>
