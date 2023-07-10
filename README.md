@@ -3,27 +3,11 @@
     <h3 align="center">Soy un Apasionado Desarrollador Full-Stack de Chile</h3>
 </div>
 
-<!--
-**KailyKinG/KailyKinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### About Me:
-> Lista de tareas
-- [x] tarea uno
-- [ ] tarea 2
-- [ ] tarea 3
-- [x] deploy terminado :melon:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Redux-toolkit, NextJS, Python
+- 📫 How to reach me: [kailyking@gmail.com](mailto:kailyking@gmail.com);
+- ⚡ Fun fact: Recien aprendo como configurar el readme.md de perfil
 
 ### Connect width Me:
 <div>
