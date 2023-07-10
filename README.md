@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect with Me:
+
+<div>
+  ## Connect with Me:
+</div>
 
 <div align="left">
   <h2>Lenguages and Tools</h2>
