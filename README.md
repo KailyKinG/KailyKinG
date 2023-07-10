@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="left">
+  <h2>Lenguages and Tools</h2>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40" />
+  </div>
+</div>
+
 ***
 [![trophy](https://github-profile-trophy.vercel.app/?username=KailyKinG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
