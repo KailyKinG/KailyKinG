@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </div>
 
 ---
+## Connect With Me
+---
 [![trophy](https://github-profile-trophy.vercel.app/?username=KailyKinG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
