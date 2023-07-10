@@ -1,3 +1,6 @@
+<div>
+    <img src="https://comunidad.movistar.es/t5/image/serverpage/image-id/40562i586BD2B10B780C11/image-size/original?v=mpbl-1&px=-1" alt="" />
+</div>
 <div align="left">
     <h2 align="center">Hi :wave:, Me Llamo Jorge Bravo</h2>
     <h3 align="center">Soy un Apasionado Desarrollador Full-Stack de Chile</h3>
