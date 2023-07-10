@@ -4,7 +4,7 @@
 </div>
 
 ### About Me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Proyecto Full-Stack, App de registro de usuarios con carga de imagenes a cloudinary 
 - 🌱 I’m currently learning Redux-toolkit, NextJS, Python
 - 📫 How to reach me: [kailyking@gmail.com](mailto:kailyking@gmail.com);
 - ⚡ Fun fact: Recien aprendo como configurar el readme.md de perfil
