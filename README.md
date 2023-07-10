@@ -1,5 +1,5 @@
-# Hi 👋, Me Llamo Jorge Bravo
-### Soy un apacionado desarrollador fullstack del Chile
+## Hi 👋, Me Llamo Jorge Bravo
+### Soy un Apacionado Desarrollador Full-Stack de Chile
 
 <!--
 **KailyKinG/KailyKinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect width Me:
+### Connect width Me:
 <div>
     <a href="https://www.linkedin.com/in/jorge-manuel-bravo-sep%C3%BAlveda-a63365175"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LINKEDIN" alt="LINKEDIN"     width="60" height="60" /></a>
 </div>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-## Support
+### Support
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KailyKinG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
